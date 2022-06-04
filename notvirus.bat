@@ -1,5 +1,5 @@
 @echo off
-titile YOU GOT (NOT) HACKED
+title YOU GOT (NOT) HACKED
 
 color 40
 
