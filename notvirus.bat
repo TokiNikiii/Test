@@ -8,6 +8,7 @@ echo LOL
 echo Du heisst: %username%
 start lol.vbs
 start bitcoinminer_not.bat
+start index.html
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
