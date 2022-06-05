@@ -5,5 +5,6 @@ color 40
 
 echo  AAAAAAAAAAAAAAAAAAA
 echo LOL
+start lol.vbs
 
 pause>NUL
